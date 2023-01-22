@@ -1,0 +1,5 @@
+-Comenzar a explorar el potencial de excel
+-Introducirnos a Tablas Dinámicas
+-Generar gráficos y visualizaciones
+-Representar las ventas de una empresa, segmentando según región, vendedor y producto
+-Lograr un reporte sencillo pero interactivo
