@@ -1,0 +1,8 @@
+Desarrollar un Reporte de Ingresos, asi como otro de Utilidad - que sean lo suficiente intuitivos para que nos cuenten una historia y nos ayuden a tomar acción eficiente.
+Para esto se requiere que:
+- Los reportes sean interactivos con botones para filtrar y/o cambiar de vista.
+- Se sumarice información utilizando otras tablas con categorias resumidas.
+- Se Agreguen visualizaciones que nos permitan ver más detalle de ser necesario.
+ctrl + = espacio entre columnas
+ctrl abajo = muestra el ultimo
+ctrl menos elimina columna o fila
